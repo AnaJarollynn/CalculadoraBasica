@@ -12,6 +12,7 @@ do
     Console.WriteLine("3 - Multiplicar");
     Console.WriteLine("4 - Dividir");
     Console.WriteLine("5 - Resto da Divisão");
+    Console.WriteLine("6 - Potenciação");
     Console.WriteLine("0 - Sair");
 
     numero = novaCalculadora.LerNumeroMenu();

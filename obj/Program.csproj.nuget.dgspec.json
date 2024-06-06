@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carol\\Music\\Calculadora\\Calculadora\\Program.csproj": {}
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\Github\\Calculadora Básica\\CalculadoraBasica\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carol\\Music\\Calculadora\\Calculadora\\Program.csproj": {
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\Github\\Calculadora Básica\\CalculadoraBasica\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carol\\Music\\Calculadora\\Calculadora\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\Github\\Calculadora Básica\\CalculadoraBasica\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\carol\\Music\\Calculadora\\Calculadora\\Program.csproj",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\Github\\Calculadora Básica\\CalculadoraBasica\\Program.csproj",
         "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carol\\Music\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\Github\\Calculadora Básica\\CalculadoraBasica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
